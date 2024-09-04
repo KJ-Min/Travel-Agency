@@ -1,5 +1,5 @@
 # 부산명소 국문 정보 + CoT & Few Shot 적용 (2024년 09월 04일)
-[LangSmith Trace 보기](https://smith.langchain.com/public/3afa1728-afcd-41ef-b42b-da1e167e8349/r)  
+[LangSmith Trace 보기](https://smith.langchain.com/public/3912cff7-4833-4294-b66e-a14a70e22437/r)  
 
 ## 문제 정의
 LangChain의 Retriever를 통해 사용되는 인용 문서는 부산 트래블라운지를 기반으로 하지만, 최종 답변에서는 다음과 같은 부산의 주요 관광지와 음식점 정보가 검색되지 않는 문제가 있습니다:
