@@ -1,5 +1,5 @@
 # 요약+md vs md 데이터 형식에 따른 성능 비교 (2024년 12월 30일)
-[LangSmith Trace 보기](https://smith.langchain.com/public/c55411b5-fbd1-4324-8da9-2f7ccca42a57/r)  
+[LangSmith Trace 보기 (md 형식 데이터만 사용)](https://smith.langchain.com/public/26e88437-2bd1-4180-8871-ea5c06288e1e/r)  
 
 ## 요약 + .md 형식 데이터
 - `RAG_TEST_with_summary.csv`
